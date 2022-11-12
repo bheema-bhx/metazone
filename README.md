@@ -27,7 +27,7 @@ Ignite CLI has scaffolded a Vue.js-based web app in the `vue` directory. Run the
 ```
 cd vue
 npm install
-npm run serve
+npm run dev
 ```
 
 
